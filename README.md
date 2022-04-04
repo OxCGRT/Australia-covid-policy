@@ -3,7 +3,7 @@ Systematic dataset of Australian sub-national Covid-19 policy data
 
 **NOTE:** for Australian subnational data that is directly comparable with our country-level data, please visit our [OxCGRT/covid-policy-tracker](https://github.com/OxCGRT/covid-policy-tracker) repository.
 
-This is a project from the [Blavatnik School of Government](https://www.bsg.ox.ac.uk), drawing on the [Blavatnik School of Government OxCGRT](https://www.bsg.ox.ac.uk/covidtracker).
+This is a project from the [Blavatnik School of Government](https://www.bsg.ox.ac.uk) in collaboration with the [Australian National University](https://www.anu.edu.au/)  drawing on the [Blavatnik School of Government OxCGRT](https://www.bsg.ox.ac.uk/covidtracker).
 
 More information is available on the project's website: [https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker).
 
