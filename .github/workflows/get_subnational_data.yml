@@ -23,7 +23,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git diff-index --quiet HEAD || git commit -m "Pull latest OxCGRT US non-imputed subnational data" -a
+          git diff-index --quiet HEAD || git commit -m "Pull latest OxCGRT Australian subnational data" -a
           
       - name: Push changes
         uses: ad-m/github-push-action@master
