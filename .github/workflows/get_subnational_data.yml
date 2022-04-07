@@ -3,10 +3,11 @@
 name: Update OxCGRT-Australia CSV
 
 on:
+ push
  # schedule:
    # - cron: '1 2-23 * * *'
   
-  push
+ 
 
 jobs:
   build:
