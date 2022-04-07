@@ -4,7 +4,7 @@ name: Update OxCGRT-Australia CSV
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '1 2-23 * * *'
 
 jobs:
   build:
