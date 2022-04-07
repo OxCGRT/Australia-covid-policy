@@ -17,7 +17,7 @@ jobs:
 
       - name: Download a raw CSV of Australian subnational data from OxCGRT database
         run: |
-          curl 'https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Foxcgrtportal.azurewebsites.net%2Fapi%2Fcsvdownload%3Ftype%3Dsubnational_australia_imputed&data=04%7C01%7CRoy.Barnes%40anu.edu.au%7C21427285b4a14f2581a508da1245de8f%7Ce37d725cab5c46249ae5f0533e486437%7C0%7C0%7C637842388558422890%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Z1I75O7AHXDIq0QAADuurZR0j3ApjzuT7slpQD4dRlY%3D&reserved=0' -s -f -o 'data/OxCGRT_Australia_latest.csv'
+          curl 'https://oxcgrtportal.azurewebsites.net/api/csvdownload?type=subnational_australia_imputed&data'
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
