@@ -17,7 +17,7 @@ jobs:
 
       - name: Download a raw CSV of Australian subnational data from OxCGRT database
         run: |
-          curl 'https://oxcgrtportal.azurewebsites.net/api/csvdownload?type=subnational_australia_imputed&data'
+          curl 'https://oxcgrtportal.azurewebsites.net/api/csvdownload?type=subnational_australia_imputed'
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
