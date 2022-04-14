@@ -26,10 +26,8 @@ The AUS subnational repo contains eight descriptive labels:
 - NAT_GOV: Policies issued by the Australian federal government only. 
 - NAT_TOTAL: Part of the OxCGRT international dataset, describes the overall policy environment that applies to residents of the country, including policies set by the subnational governments where those values are more stringent than country-wide action. 
 - STATE_GOV: Policies issued by that particular state government only. 
-- STATE_WIDE: Describes government responses set by a state and its sub-components. It does not include policies adopted at a higher level of government. 
 - STATE_TOTAL: Describes the overall policy environment that applies to residents of the state, including policies set by the national government where those values are more stringent than state-level action. 
-- CITY_GOV: Policies that affect that particular ‘city’ only within the jurisdiction e.g. policy affecting Greater Sydney or Rest of NSW. In Australia, the city either refers to the state’s greater capital city or the rest of the state. 
-- CITY_WIDE:  For Australia, health policies are not implemented by city officials and consequently CITY_WIDE is the same as CITY_GOV. 
+- CITY_WIDE: Policies that affect that particular ‘city’ only within the jurisdiction e.g. policy affecting Greater Sydney or Rest of NSW. In Australia, the city either refers to the state’s greater capital city or the rest of the state. 
 - CITY_TOTAL: Describes the overall policy environment that applies to residents of the city, including policies set by the national government and state government where those values are more stringent than city-level action.
 
 
@@ -43,4 +41,5 @@ The [/data](data/) folder in this repo contains recent exports from the OxCGRT d
 
 ### Acknowledgments
 
-The OxCGRT Australian subnational coders are:
+The OxCGRT Australian subnational coders are: 
+Roy Barnes, Pedro Riquemle Gonzalez, Alfie Killigrew, Keliang Zang Patrick Rehil, Weija Shein, Liza Bractendorf, Hong Zeng, Margie Morrison, Weija Shein, Chantelle Khoo, Fiona Zhong, Yintong Liu, Zixin Xu, Maeve Rolland, Dilkini Rajapaksha, Andrew Rapp, Justine Pfitzner, Ruibiao Zhu, Nada Vidyattama, Grace Lin,Zicheng Mai, Kar Chong Low, Ashraf Marasharin, Zeyu Zhang, Liz Gleeson, Niveditha Hari, Callum Rodgers, Hin Yeung Chu, Yue Zhang, Jackline Jessica Sahe, Celia Cui, Reham Aamir, Bethany Rodgers, Miao Wang, Konstantinos Tsampalas, Sher Meng Tan, Luyang Liu, Supitchaya Watakul, Marina Belaia, Yi Carlin Chen, Ruby Hynes, Lennox Hemingway, Yuyin Yao, Lily Mccrohan, Yu Wen Wong, Elinor Tsen, Nellie Thompson, Huiting Tan, Jessica Pulipaka, Suraj Ghimire, Donghan Wang, Sanjeev Sabhlok, Ruiqiao Jian, Alex Chen, Yi Zhou, Fiona Ballentine, Xinyu Shi, Rojan Joshi, Taylor Qin, Leonie Lam, Alex Qin, Reina Li, Angus Padley, Andrew Tao, Thuy An Pham, Thomas Hodgson, Alexander Trousdale, Kiara Asuzu, Haoyu Zhou, Perkins Lui, Xiuyi Zheng, Fiona Dickson, Yintong Liu, Emilianna Guerra, Pham Thao Ly Nguyen, Fuji Jauhari, Cyndekke Kwabi, Akeemat Ayinla, Rachel Choy, Siu Hei Shoshanna So, Elena Sheard, Helene Lovell, Weilun An, Jasperine Phetchareun, Jessica Liana, Ashleigh McNeil, Er Tian Sim, Sidneu Chung, Xiohan Xu, Max Babus, Wenjie Xie, Yuwei Wu, Xinyi Cui, Yawen Xie, Jessica Pulipaka, Zachariah Coleman, Bernard Lao, Zhi Yuan Ho, Yun Zhu, Kethmi Gamage, Aditya Shankar
